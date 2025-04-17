@@ -1,0 +1,3 @@
+[📶] SSID: CoffeeShopWiFi | BSSID: 90:4C:E5:00:5E:D1 | Channel: 1 | Signal: -40 dBm
+[📶] SSID: Hidden | BSSID: 68:7F:74:8B:9F:00 | Channel: 11 | Signal: -60 dBm
+[📶] SSID: HomeNet_5G | BSSID: 18:35:D1:A4:3B:55 | Channel: 149 | Signal: -35 dBm
