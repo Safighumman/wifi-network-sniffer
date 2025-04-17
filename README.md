@@ -59,7 +59,23 @@ sudo python3 wifi_sniffer.py wlan0
 
 Sample output:
 
-```yaml
 [📶] SSID: Starbucks_WiFi | BSSID: 34:2C:C4:10:1A:AB | Channel: 6 | Signal: -41 dBm
 [📶] SSID: Hidden | BSSID: 22:1B:78:8C:FF:13 | Channel: 11 | Signal: -58 dBm
 
+---
+## 👨‍💻 Educational Value
+Learn about 802.11 wireless frames
+
+Understand how passive sniffing works
+
+Experience terminal-based packet analysis
+---
+## 🧠 Notes
+Hidden SSIDs appear as "" — they can be captured with more advanced probing.
+
+Does not de-authenticate or interfere — it's purely passive.
+
+Only beacon frames are analyzed for safety and legality.
+---
+## ⭐ Like the Project?
+Leave a ⭐ on GitHub and share your thoughts!
