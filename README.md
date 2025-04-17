@@ -79,3 +79,13 @@ Only beacon frames are analyzed for safety and legality.
 ---
 ## ⭐ Like the Project?
 Leave a ⭐ on GitHub and share your thoughts!
+
+---
+## 🔮 Future Ideas
+Export results to CSV/JSON
+
+Add filtering for channels or vendor MAC
+
+Integrate geolocation from public MAC databases (e.g., Wigle)
+
+Build a simple GUI with Tkinter or PyQT
